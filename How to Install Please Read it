@@ -1,0 +1,9 @@
+# Automatic-Vehicle-ModKit
+This is for an automatic ModKit that upgrades your cars for you and repair
+It is the Same as a normal Resource Instalation
+Codes
+/vehicle spawn (Here you spawn whatever car)
+/vehicle customize (Because of the code it will upgrade car to max everything)
+/vehicle extras (Gives car all extras)
+/vehicle repair (repairs the car)
+/vehicle doors (opens all doors)
